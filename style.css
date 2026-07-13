@@ -210,4 +210,15 @@ main{
     }
 }
 
+@media screen and (max-width: 425px) {
 
+    .car-loans {
+        left: -10px;
+        width: 95px;
+    }
+    .home-loans {
+        width: 110px;
+        right: -25px;
+    }
+   
+}
