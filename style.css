@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: metropolis;
+
+}
+
+/* whole page web container */
+body {
+    background-image: url("./Assets/background-image.png");
+    background-position: bottom;
+    height: 100vh;
+    background-repeat: no-repeat;
+    max-width: 1440px;
+    margin: auto;
+
+}
