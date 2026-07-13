@@ -132,3 +132,41 @@ main{
 
 /* main hero right */
 
+.main-hero-right{
+    position: relative;
+    width: 65%;
+}
+
+.car-loans{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 110px;
+    justify-content: space-between;
+    padding: 10px 15px;
+    border-radius: 30px;
+    top: 8%;
+    left: 10%;
+    background-color: #ffffff;
+    border: none;
+    box-shadow: 1px 1px 20px grey;
+}
+
+.home-loan{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 125px;
+    justify-content: space-between;
+    padding: 10px 15px;
+    border: 1px solid red;
+    border-radius: 30px;
+    right: 10%;
+    top: 25%;
+    background-color: #ffffff;
+    box-shadow: 10px 10px 50px grey;
+}
+
+.hero-image{
+    width: 100%;
+}
