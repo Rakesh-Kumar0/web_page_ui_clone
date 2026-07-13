@@ -55,3 +55,31 @@ nav a{
     border-radius: 5px;
 
 }
+
+/* main section */
+
+main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 7%;
+    height: 82vh;
+}
+
+.main-hero-left{
+    position: relative;
+    width: 35%;
+}
+
+/* main hero left */
+
+.main-hero-left h1{
+    font-size: 65px;
+    padding-bottom: 20px;
+}
+
+.main-hero-left p{
+    font-size: 22px;
+    color: #676767;
+    padding-bottom: 20px;
+}
